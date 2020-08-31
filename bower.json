@@ -1,15 +1,15 @@
 {
-  "name": "oi.file",
+  "name": "buzzoola.oi.file",
   "main": "oi.file.js",
-  "version": "0.0.0",
-  "homepage": "https://github.com/tamtakoe/oi.file",
+  "version": "0.0.1",
+  "homepage": "https://github.com/petrunkodg/oi.file",
   "description": "Angular file uploader",
   "keywords": [
     "angularjs",
     "fileuploader"
   ],
   "authors": [
-    "tamtakoe"
+    "petrunkodg"
   ],
   "license": "MIT",
   "ignore": [

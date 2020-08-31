@@ -1,10 +1,10 @@
 {
-    "name":    "oi.file",
+    "name":    "buzzoola.oi.file",
     "license": "MIT",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git://github.com/tamtakoe/oi.file.git"
+        "url": "git://github.com/petrunkodg/oi.file.git"
     },
     "files": [
         "oi.file.js",
